@@ -1,7 +1,7 @@
 {
   "name": "tweetnugget",
   "display_name": "TweetNugget",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "author": "amplifier",
   "description": "A nugget of wisdom from the bird app. Random inspirational tweets from curated collections. Filter by topic or get surprised.",
   "category": "fun",
