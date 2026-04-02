@@ -4,27 +4,34 @@
 
 Curated collections of inspirational tweets and wisdom from Twitter/X, designed to brighten your day with thoughtful insights from voices across the tech and philosophy worlds.
 
+[![ClawHub](https://img.shields.io/badge/ClawHub-tweetnugget-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHRleHQgeD0iMCIgeT0iMTQiIGZvbnQtc2l6ZT0iMTQiPjwxPC90ZXh0Pjwvc3ZnPg==)](https://clawhub.dev/tweetnugget)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
-[![Quote Count](https://img.shields.io/badge/quotes-55-yellow.svg)](https://github.com/openhands/tweetnugget)
+![Version](https://img.shields.io/badge/version-1.1.1-brightgreen.svg)
+[![Quote Count](https://img.shields.io/badge/quotes-67-yellow.svg)](https://github.com/amplifier/tweetnugget)
 
-## Quick Start
+## Install
 
-Install TweetNugget and start receiving inspiring wisdom:
+### ClawHub (recommended)
 
-From ClawHub:
 ```bash
 clawhub install tweetnugget
 ```
 
-Or via OpenClaw CLI:
+Browse on [clawhub.dev/tweetnugget](https://clawhub.dev/tweetnugget)
+
+### OpenClaw CLI
+
 ```bash
 openclaw skills install tweetnugget
 ```
 
-Or manually: copy this folder to `~/.openclaw/skills/tweetnugget/`
+### Manual
 
-Once installed, simply request quotes in any chat where OpenClaw is active:
+Copy this folder to `~/.openclaw/skills/tweetnugget/`
+
+## Quick Start
+
+Once installed, request quotes in any chat where OpenClaw is active:
 ```
 Give me a quote
 Hit me with some wisdom
@@ -65,11 +72,11 @@ TweetNugget is an OpenClaw skill that delivers random inspirational tweets from 
 
 | Collection | Quotes | Source |
 |---|---|---|
-| `swlw-tweets.json` | 37 | Software Lead Weekly newsletter (issues #681-#663) |
+| `swlw-tweets.json` | 49 | Software Lead Weekly newsletter (issues #681-#657) |
 | `twitter-quotes.json` | 12 | Curated Twitter wisdom |
 | `stoic-quotes.json` | 6 | Stoic philosophy quotes |
 
-**Total: 55 quotes across 3 collections**
+**Total: 67 quotes across 3 collections**
 
 ## Available Tags
 
