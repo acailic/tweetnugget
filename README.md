@@ -1,29 +1,30 @@
 # TweetNugget
 
-A nugget of wisdom from the bird app.
+*Nuggets of wisdom from the bird app*
 
-Curated collections of inspirational tweets and wisdom from Twitter/X, ready to brighten your day.
+Curated collections of inspirational tweets and wisdom from Twitter/X, designed to brighten your day with thoughtful insights from voices across the tech and philosophy worlds.
 
-## Install
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
+[![Quote Count](https://img.shields.io/badge/quotes-55-yellow.svg)](https://github.com/openhands/tweetnugget)
+
+## Quick Start
+
+Install TweetNugget and start receiving inspiring wisdom:
 
 From ClawHub:
-
 ```bash
 clawhub install tweetnugget
 ```
 
 Or via OpenClaw CLI:
-
 ```bash
 openclaw skills install tweetnugget
 ```
 
 Or manually: copy this folder to `~/.openclaw/skills/tweetnugget/`
 
-## Usage
-
-In any chat where OpenClaw is active:
-
+Once installed, simply request quotes in any chat where OpenClaw is active:
 ```
 Give me a quote
 Hit me with some wisdom
@@ -33,6 +34,16 @@ Something about leadership
 Surprise me
 ```
 
+## Why TweetNugget?
+
+In a world of endless information, finding truly valuable insights can be challenging. TweetNugget solves this by:
+
+- **Curated Wisdom**: Every quote is hand-picked from high-quality sources
+- **Diverse Perspectives**: Insights from engineers, philosophers, entrepreneurs, and thought leaders
+- **Easily Accessible**: Wisdom delivered exactly when you need it
+- **Topic Filtering**: Find inspiration on specific topics that matter to you
+- **Minimalist Design**: Focus on the content, not the interface
+
 ## Example Output
 
 > "The purpose of knowledge is action." — @RyanHoliday
@@ -40,6 +51,15 @@ Surprise me
 > "Most of coding was never about writing code. AI is just making this more obvious. You no longer need to recall syntax, function structure, boilerplate code, or even API endpoints. The hard part was never typing. It was always thinking. And it still is." — @Prathkum
 
 > "Waste no more time arguing about what a good man should be. Be one." — @dailystoic - Marcus Aurelius
+
+## How It Works
+
+TweetNugget is an OpenClaw skill that delivers random inspirational tweets from curated JSON collections. When you request a quote, the skill:
+
+1. **Filters by topic** (if specified) - matches your query against tagged quotes
+2. **Selects randomly** - ensures variety and serendipity
+3. **Presents beautifully** - displays the quote with attribution and source link
+4. **Maintains quality** - all quotes are hand-curated for relevance and inspiration
 
 ## Collections
 
