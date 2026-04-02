@@ -45,7 +45,7 @@ Surprise me
 
 ## Available Tags
 
-Filter quotes by topic: `action`, `advantage`, `ai`, `building`, `career`, `confidence`, `creation`, `courage`, `design`, `discipline`, `distribution`, `early-career`, `engineering`, `enough`, `explanation`, `focus`, `goals`, `happiness`, `hiring`, `humor`, `innovation`, `knowledge`, `leadership`, `learning`, `life-decisions`, `luck`, `marketing`, `meaningful-work`, `motivation`, `moving-on`, `persistence`, `philosophy`, `preparation`, `privacy`, `product`, `productivity`, `promotion`, `programming`, `recruiting`, `resilience`, `relationships`, `simplicity`, `startups`, `stoicism`, `thinking`, `time-money`, `wisdom`, `work`
+Filter quotes by topic: `action`, `advice`, `ai`, `anxiety`, `authorship`, `building`, `burnout`, `business`, `career`, `change`, `coding`, `confidence`, `creation`, `courage`, `decision-making`, `deliberate-practice`, `design`, `discipline`, `distribution`, `dopamine`, `early-career`, `engineering`, `excellence`, `explanation`, `finance`, `focus`, `goals`, `happiness`, `hiring`, `humor`, `identity`, `innovation`, `knowledge`, `leadership`, `learning`, `life`, `life-decisions`, `luck`, `marketing`, `meaningful-work`, `mindset`, `motivation`, `moving-on`, `passion`, `persistence`, `philosophy`, `planning`, `preparation`, `privacy`, `product`, `productivity`, `progress`, `programming`, `psychology`, `recruiting`, `relationships`, `resilience`, `satisfaction`, `simplicity`, `startups`, `stoicism`, `strategy`, `tech`, `thinking`, `time`, `time-money`, `tools`, `ux`, `vc`, `wisdom`, `work`
 
 ## Contributing
 
@@ -70,6 +70,7 @@ Fields:
 - `text` (required): The quote text
 - `author` (required): Twitter handle or attribution
 - `url` (optional): Link to original tweet
+- `category` (optional): Category label (e.g., "Software Engineering", "Philosophy")
 - `tags` (optional): List of topic tags for filtering
 
 ## Publish to ClawHub

@@ -3,6 +3,7 @@
 
 import glob
 import json
+import os
 import random
 import sys
 from pathlib import Path
@@ -179,8 +180,6 @@ def main():
 
     # Change to script directory
     script_dir = Path(__file__).parent
-    import os
-
     os.chdir(script_dir)
 
     # Run tests
