@@ -6,8 +6,8 @@ Curated collections of inspirational tweets and wisdom from Twitter/X, designed 
 
 [![ClawHub](https://img.shields.io/badge/ClawHub-tweetnugget-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHRleHQgeD0iMCIgeT0iMTQiIGZvbnQtc2l6ZT0iMTQiPjwxPC90ZXh0Pjwvc3ZnPg==)](https://clawhub.dev/tweetnugget)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Version](https://img.shields.io/badge/version-1.1.1-brightgreen.svg)
-[![Quote Count](https://img.shields.io/badge/quotes-67-yellow.svg)](https://github.com/amplifier/tweetnugget)
+![Version](https://img.shields.io/badge/version-1.2.0-brightgreen.svg)
+[![Quote Count](https://img.shields.io/badge/quotes-67-yellow.svg)](https://github.com/acailic/tweetnugget)
 
 ## Install
 

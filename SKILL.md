@@ -1,6 +1,6 @@
 ---
 name: tweetnugget
-description: A nugget of wisdom from the bird app. Pick a random inspirational tweet from curated collections.
+description: A random inspirational tweet from curated collections of hand-picked wisdom by tech leaders, founders, and philosophers.
 version: 1.1.0
 author: amplifier
 tools:

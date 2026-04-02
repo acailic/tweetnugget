@@ -3,7 +3,7 @@
   "display_name": "TweetNugget",
   "version": "1.2.0",
   "author": "amplifier",
-  "description": "A nugget of wisdom from the bird app. Random inspirational tweets from curated collections. Filter by topic or get surprised.",
+  "description": "A random inspirational tweet from curated collections of hand-picked wisdom by tech leaders, founders, and philosophers. Filter by topic or get surprised.",
   "category": "fun",
   "tags": ["quotes", "inspiration", "twitter", "wisdom", "motivation", "nugget"],
   "entry": "SKILL.md",
