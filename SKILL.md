@@ -1,7 +1,7 @@
 ---
 name: tweetnugget
-description: A random inspirational tweet from curated collections of hand-picked wisdom by tech leaders, founders, and philosophers.
-version: 1.1.0
+description: Get a random inspirational quote from curated collections of hand-picked wisdom by tech leaders, founders, and philosophers. Supports filtering by topic or random surprise mode. 67 quotes across 3 collections.
+version: 1.2.0
 author: amplifier
 tools:
   - bash  # Used only for: python3 script execution to read local JSON files
