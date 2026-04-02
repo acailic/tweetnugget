@@ -6,6 +6,14 @@ Curated collections of inspirational tweets and wisdom from Twitter/X, ready to 
 
 ## Install
 
+From ClawHub:
+
+```bash
+clawhub install tweetnugget
+```
+
+Or via OpenClaw CLI:
+
 ```bash
 openclaw skills install tweetnugget
 ```
@@ -72,12 +80,6 @@ Fields:
 - `url` (optional): Link to original tweet
 - `category` (optional): Category label (e.g., "Software Engineering", "Philosophy")
 - `tags` (optional): List of topic tags for filtering
-
-## Publish to ClawHub
-
-```bash
-openclaw skills publish tweetnugget
-```
 
 ## License
 
